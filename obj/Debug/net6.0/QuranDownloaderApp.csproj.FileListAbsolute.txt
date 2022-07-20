@@ -1,0 +1,15 @@
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/bin/Debug/net6.0/QuranDownloaderApp
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/bin/Debug/net6.0/QuranDownloaderApp.deps.json
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/bin/Debug/net6.0/QuranDownloaderApp.runtimeconfig.json
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/bin/Debug/net6.0/QuranDownloaderApp.dll
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/bin/Debug/net6.0/QuranDownloaderApp.pdb
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/obj/Debug/net6.0/QuranDownloaderApp.csproj.AssemblyReference.cache
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/obj/Debug/net6.0/QuranDownloaderApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/obj/Debug/net6.0/QuranDownloaderApp.AssemblyInfoInputs.cache
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/obj/Debug/net6.0/QuranDownloaderApp.AssemblyInfo.cs
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/obj/Debug/net6.0/QuranDownloaderApp.csproj.CoreCompileInputs.cache
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/obj/Debug/net6.0/QuranDownloaderApp.dll
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/obj/Debug/net6.0/refint/QuranDownloaderApp.dll
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/obj/Debug/net6.0/QuranDownloaderApp.pdb
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/obj/Debug/net6.0/QuranDownloaderApp.genruntimeconfig.cache
+/home/ibrat_muslim/dotnet/QuranDownloaderApp/obj/Debug/net6.0/ref/QuranDownloaderApp.dll

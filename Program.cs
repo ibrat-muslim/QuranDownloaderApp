@@ -32,5 +32,3 @@
             Console.WriteLine($"File Location: {e.FileFullPath}");
         }
     }    
-// hello world
-// Branch Main && branch Zarina

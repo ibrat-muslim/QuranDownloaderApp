@@ -31,6 +31,6 @@
             Console.WriteLine($"Sura {(double)e.EllapsedTime/1000}s da yuklandi");
             Console.WriteLine($"File Location: {e.FileFullPath}");
         }
-    }
+    }    
 // hello world
-// Branch Main && branch Ibrat
+// Branch Main && branch Zarina
